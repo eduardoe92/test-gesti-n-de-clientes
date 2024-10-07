@@ -39,7 +39,7 @@ public class ClienteService {
     }
 
     public Cliente obtenerClientePorNombreCompleto(String nombre, String apellidoPaterno, String apellidoMaterno) {
-        throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
+        throw new UnsupportedOperationException("Not supported yet.");
     }
     
 }
